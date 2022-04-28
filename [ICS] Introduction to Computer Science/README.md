@@ -2,7 +2,7 @@
 
 ## Semester
 
-[IBC21] InnoBootCamp 2021
+[IBC21] InnoBootCamp 2021 (August 2021)
 
 ## Description
 
