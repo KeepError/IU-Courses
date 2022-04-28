@@ -2,4 +2,4 @@
 
 ## Semester
 
-[F21] Fall 2022 (August - December 2021)
+[F21] Fall 2021 (August - December 2021)
