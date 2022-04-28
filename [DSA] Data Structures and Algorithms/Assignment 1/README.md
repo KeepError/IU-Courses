@@ -1,1 +1,0 @@
-Solution to Assignment №1 from "Data Structures and Algorithms" course in Innopolis University
